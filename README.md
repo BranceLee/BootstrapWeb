@@ -9,7 +9,7 @@ If you are looking for the alpha6 version [click here](https://github.com/bradtr
 1.0.0
 
 ## Install Dependencies
-
+make sure you have install the npm or the yarn  and the gulp
 ```bash
 npm install 
 ```
